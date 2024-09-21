@@ -2,12 +2,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
-  
   <h3 align="center">Code Guide</h3>
 
   <p align="center">
-   CodeGuide adalah sebuah website untuk belajar programming yang juga dapat berinteraksi dengan sesama pecinta programming.
+   CodeGuide is a website for learning programming that can also interact with fellow programming lovers.
     <br />
   </p>
 </div>
@@ -16,17 +14,17 @@
 ## About The Project
 
 <div align="center">
-  <img src="images/ui.png" alt="ui" width="80" height="80">
+  <img src="images/UI.png" alt="ui">
 </div>
-
-Projek ini adalah projek sederhana yang menampilkan website dengan halaman-halaman utama seperti home, about, register, dll.
+<br />
+This project is a simple project that displays the CodeGuide website with main pages containing general information such as Home, About, Classes, and Register.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ## Open The Project
-1. Open XAMPP dan klik "Start" pada module MySQL
-2. Pindahkan file project ke C:\xampp\htdocs
-3. Puka browser dan pergi ke http://localhost/CodeGuide/index.html
+1.  Open XAMPP and click “Start” on the MySQL module
+2. Move the project file to C:\xampp\htdocs
+3. Open a browser and go to http://localhost/CodeGuide/index.html
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
